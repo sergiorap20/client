@@ -1,0 +1,24 @@
+.Form-test{
+  display: flex;
+  flex-direction: column;
+  margin: 30px auto;
+  width: 300px;
+}
+.Form-test input[type=text]{
+  padding: 5px;
+}
+.Form-test span{
+font-size: 13px;
+  color: red;
+  margin-bottom: 15px;
+}
+.Form-test button{
+  margin-top: 5px;
+  cursor: pointer;
+}
+.D-none{
+  display: none;
+}
+.D-block{
+  display: block;
+}
